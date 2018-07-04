@@ -1,7 +1,7 @@
 /* Word Wrap Problem (Greedy Solution).cpp
-Given a sequence of words, and a limit on the number of characters that can be put in one 
-line (line width). Put line breaks in the given sequence such that the lines are printed 
-neatly. Assume that the length of each word is smaller than the line width.
+Given a sequence of words, and a limit on the number of characters that can be put in one line (line width). 
+Put line breaks in the given sequence such that the lines are printed neatly. Assume that the length of each
+word is smaller than the line width.
 
 For example, consider the following string and line width M = 15
 "Geeks for Geeks presents word wrap problem"
